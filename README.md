@@ -1,3 +1,5 @@
+# FruitNinja
+
 fruit_ninja/
 │
 ├── main.py
